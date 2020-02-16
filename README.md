@@ -10,8 +10,8 @@ chmod -R + x ./bin
 ### Step 2: Modify a file
 hosts file changed to ubuntu machine real IP
 
-### Step 3: Modify a docker-compose file 
-In dir of compose-files and compose-files/bak ,include two yml file:  
+### Step 3: Modify docker-compose files 
+In dir of compose-files and compose-files/bak ,include two yml files:  
 docker-compose-redis.yml and docker-compose-mongo.yml  
 
 change images to yours in file
