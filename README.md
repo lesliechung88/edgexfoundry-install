@@ -1,6 +1,6 @@
 # edgexfoundry-install
 
- Automate edgexfoundry installation, include docker docker-compose(need root user)  
+ Automate edgexfoundry installation, including docker & docker-compose(need root user)  
  Help users quickly run edgexfoundry and understand its features   
  
  Currently only supports Ubuntu ,Suggest Ubuntu 16+ amd64
