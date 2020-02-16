@@ -58,3 +58,5 @@ if you want to unload edgex, execute the following command:
 
 cd ./bin  
 ./uninstall-edgex.sh
+
+![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
