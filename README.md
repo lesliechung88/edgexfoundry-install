@@ -1,6 +1,7 @@
 # edgexfoundry-install
- make edgexfoundry install package  
+ make edgexfoundry(fuji) auto install 
  Currently only supports Ubuntu OS amd 16+
+ 
  
 ## Setup edgex 
 ### Step 1: Grant executable permissions in the bin directory
