@@ -17,7 +17,7 @@ hosts file changed to ubuntu machine real IP
 
 ### Step 3: Modify docker-compose files 
 
-In directory of compose-files and compose-files/bak ,each directory include two yml same files:  
+In directory of compose-files and compose-files/bak ,each directory include two same .yml files:  
 docker-compose-redis.yml and docker-compose-mongo.yml  
 
 change images to yours in file
