@@ -396,6 +396,8 @@ services:
      hostname: edgex-device-modbus
      networks:
        - edgex-network
+     devices:
+       - "/dev/ttyS1:/dev/ttyS1"
      volumes:
        - log-data:/edgex/logs
        - consul-config:/consul/config
