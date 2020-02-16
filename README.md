@@ -1,6 +1,6 @@
 # edgexfoundry-install
  make edgexfoundry(fuji) auto install & uninstall, include docker docker-compose(need root user)
- Currently only supports Ubuntu OS amd 16+
+ Currently only supports Ubuntu ,Suggest Ubuntu 16+ amd64
  
  
 ## Install edgexfoundry 
