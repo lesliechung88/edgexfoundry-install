@@ -62,6 +62,9 @@ cd ./bin
 ## Download the prepared installation package
 [install package of EdgeX Foundry fuji version](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=74&extra=page%3D1)
 
+
+
+
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install2.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-run1.png)
