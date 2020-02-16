@@ -26,7 +26,6 @@ change images to yours in file
 
 In directory of images holds using images which is defined in directory of compose-files and compose-files/bak composefile
 
-change images to yours in file
 ### Step 5: Perform the installation
 
 cd ./bin  
