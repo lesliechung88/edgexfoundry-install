@@ -13,20 +13,19 @@ chmod -R +x ./bin
 
 ### Step 2: Modify a file
 
-hosts file changed to ubuntu machine real IP
+Modify IP in hosts file to Ubuntu machine real IP
 
 ### Step 3: Modify docker-compose files 
 
-In directory of compose-files and compose-files/bak ,each directory include two same .yml files:  
+In the directory of compose-files and compose-files/bak ,each directory include two same .yml files:  
 docker-compose-redis.yml and docker-compose-mongo.yml  
 
-change images to yours in file
+Modify image to yours in file
 
-### Step 4: put using images into images directory
+### Step 4: Put using images into images directory
 
-In directory of images holds using images which is defined in directory of compose-files and compose-files/bak composefile
+In the directory of images holds using images which is defined in directory of compose-files and compose-files/bak composefile
 
-change images to yours in file
 ### Step 5: Perform the installation
 
 cd ./bin  
@@ -59,3 +58,13 @@ if you want to unload edgex, execute the following command:
 
 cd ./bin  
 ./uninstall-edgex.sh
+
+## Download the prepared installation package
+[edgex-fuji_standard_1.1.0.tar.gz](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=74&extra=page%3D1)
+
+
+
+## application images
+![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
+![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install2.png)
+![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-run1.png)
