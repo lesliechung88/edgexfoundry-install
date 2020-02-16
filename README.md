@@ -42,7 +42,7 @@ cd ./bin
 ./stop-one-service.sh DATATYPE SERVICENAME  
 ./restart-one-service.sh DATATYPE SERVICENAME  
 
-vaule of DATATYPE is redis or mongo
+vaule of DATATYPE is redis or mongo  
 value of SERVICENAME is Defined in composefile
 
 ## Unload edgexfoundry 
