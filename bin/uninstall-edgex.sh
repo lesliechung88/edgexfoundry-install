@@ -78,7 +78,7 @@ do
                 rm -rf ../host
                 rm -rf ../VERSION
                 rm -rf ../bin
-                rm -rf ../../edgex-fuji
+           #     rm -rf ../../edgex-fuji
                 echo ""
                 break
            fi
