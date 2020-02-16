@@ -1,9 +1,9 @@
 # edgexfoundry-install
- make edgexfoundry(fuji) auto install 
+ make edgexfoundry(fuji) auto install & uninstall, include docker docker-compose(need root user)
  Currently only supports Ubuntu OS amd 16+
  
  
-## Setup edgex 
+## Install edgexfoundry 
 ### Step 1: Grant executable permissions in the bin directory
 chmod -R + x ./bin
 
@@ -21,8 +21,14 @@ cd ./bin
 ./install-edgex.sh
 
 ## Start edgex
+cd ./bin  
 After installation, execute the following command to start edgex  
 
 ./start-edgex.sh redis  
 or  
 ./start-edgex.sh mongo  
+
+## Uninstall edgexfoundry 
+After installation, execute the following command to start edgex  
+cd ./bin  
+./uninstall-edgex.sh
