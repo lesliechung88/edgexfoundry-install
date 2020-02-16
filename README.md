@@ -9,7 +9,7 @@
 ## Install edgexfoundry 
 ### Step 1: Grant executable permissions in the bin directory
 
-chmod -R + x ./bin
+chmod -R +x ./bin
 
 ### Step 2: Modify a file
 
@@ -17,12 +17,17 @@ hosts file changed to ubuntu machine real IP
 
 ### Step 3: Modify docker-compose files 
 
-In directory of compose-files and compose-files/bak ,include two yml files:  
+In directory of compose-files and compose-files/bak ,each directory include two yml same files:  
 docker-compose-redis.yml and docker-compose-mongo.yml  
 
 change images to yours in file
 
-### Step 4: Perform the installation
+### Step 4: put using images into images directory
+
+In directory of images holds using images which is defined in directory of compose-files and compose-files/bak composefile
+
+change images to yours in file
+### Step 5: Perform the installation
 
 cd ./bin  
 ./install-edgex.sh
