@@ -68,7 +68,7 @@ cd ./bin
 
 
 ## application images
-![image](https://github.com/lesliechung88/edgexfoundry-install/tree/master/appimg/edgex-install1.png)
+![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install2.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-run1.png)
 ![安装界面](https://images.gitee.com/uploads/images/2020/0218/112811_7ba22436_1674860.png "edgex-install1.png")
