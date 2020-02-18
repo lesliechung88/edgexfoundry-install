@@ -71,3 +71,6 @@ cd ./bin
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install2.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-run1.png)
+![安装界面](https://images.gitee.com/uploads/images/2020/0218/112811_7ba22436_1674860.png "edgex-install1.png")
+![安装完成](https://images.gitee.com/uploads/images/2020/0218/112839_0599d795_1674860.png "edgex-install2.png")
+![UI图像显示](https://images.gitee.com/uploads/images/2020/0218/112900_7f57cb7f_1674860.png "edgex-run1.png")
