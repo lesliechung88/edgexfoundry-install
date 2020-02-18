@@ -5,6 +5,8 @@
  
  Currently only supports Ubuntu ,Suggest Ubuntu 16+ amd64
  
+ 自动化安装edgexfoundry, 目前只支持Ubuntu, 建议Ubuntu 16+  
+ 
  
 ## Install edgexfoundry 
 ### Step 1: Grant executable permissions in the bin directory
@@ -60,6 +62,7 @@ cd ./bin
 ./uninstall-edgex.sh
 
 ## Download the prepared installation package
+下载已打好的安装包edgexfoundry(fuji版)  
 [edgex-fuji_standard_1.1.0.tar.gz](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=74&extra=page%3D1)
 
 
