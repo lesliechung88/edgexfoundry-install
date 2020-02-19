@@ -2,10 +2,10 @@
 
  Automate edgexfoundry installation, including docker & docker-compose(need root user)  
  Help users quickly run edgexfoundry and understand its features   
+ 构建自动化edgexfoundry安装包, 帮助用户快速运行edgex，并体验它的功能  
  
- Currently only supports Ubuntu ,Suggest Ubuntu 16+ amd64
- 
- 自动化安装edgexfoundry, 目前只支持Ubuntu, 建议Ubuntu 16+  
+ Currently only supports Ubuntu ,Suggest Ubuntu 16+ amd64  
+ 目前只支持Ubuntu, 建议Ubuntu 16+  
  
  Warning: the shell scripts mentioned below, make sure to execute in the bin directory  
  警告：下面提到的shell 脚本，需在bin目录下执行  
