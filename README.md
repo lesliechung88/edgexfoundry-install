@@ -65,14 +65,17 @@ if you want to unload edgex, execute the following command:
 cd ./bin  
 ./uninstall-edgex.sh
 
-## Download the prepared installation package
+## Package release
+Finally, you can package it into a * .tar.gz and publish it.
+
+# Download the prepared installation package
 安装包下载(edgex fuji版)  
 [edgex-fuji_standard_1.1.0.tar.gz](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=74&extra=page%3D1)  
 edgex-ui操作手册下载  
 [Edgex-UI操作指南.pdf](http://edgexfoundry.net/discuz/file/Edgex-UI%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.pdf)
 
 
-## application images
+# application images
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install1.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-install2.png)
 ![image](https://github.com/lesliechung88/edgexfoundry-install/blob/master/appimg/edgex-run1.png)
