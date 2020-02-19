@@ -7,10 +7,11 @@
  
  自动化安装edgexfoundry, 目前只支持Ubuntu, 建议Ubuntu 16+  
  
- 
+ Warning: the shell scripts mentioned below, make sure to execute in the bin directory  
+ 提示：下面提到的shell 脚本，需在bin目录下执行  
+  
 ## Install edgexfoundry 
 
-Warning: the shell scripts mentioned below, make sure to execute in the bin directory  
 
 ### Step 1: Grant executable permissions in the bin directory
 
