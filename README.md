@@ -9,6 +9,9 @@
  
  
 ## Install edgexfoundry 
+
+Warning: the shell scripts mentioned below, make sure to execute in the bin directory  
+
 ### Step 1: Grant executable permissions in the bin directory
 
 chmod -R +x ./bin
