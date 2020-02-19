@@ -65,7 +65,7 @@ if you want to unload edgex, execute the following command:
 cd ./bin  
 ./uninstall-edgex.sh
 
-## Package release
+# Package release
 Finally, you can package it into a * .tar.gz and publish it.
 
 # Download the prepared installation package
