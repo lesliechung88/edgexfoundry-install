@@ -72,7 +72,7 @@ Finally, you can package it into a * .tar.gz and publish it.
 安装包下载(edgex fuji版)  
 [edgex-fuji_standard_1.1.0.tar.gz](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=74&extra=page%3D1)  
 edgex-ui操作手册下载  
-[Edgex-UI操作指南.pdf](http://edgexfoundry.net/discuz/file/Edgex-UI%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.pdf)
+[Edgex-UI操作指南.pdf](http://edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=76&extra=page%3D1)
 
 
 # application images
