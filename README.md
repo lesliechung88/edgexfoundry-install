@@ -82,4 +82,4 @@ Finally, you can package it into a * .tar.gz and publish it.
 ![安装完成](https://images.gitee.com/uploads/images/2020/0218/112839_0599d795_1674860.png "edgex-install2.png")
 ![UI图像显示](https://images.gitee.com/uploads/images/2020/0218/112900_7f57cb7f_1674860.png "edgex-run1.png")
 ![QQ群:951136547]
-![images](https://images.gitee.com/uploads/images/2020/0221/084935_fe8fa8dc_1674860.png "weixin.png")
+
