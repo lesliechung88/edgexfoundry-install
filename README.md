@@ -69,8 +69,8 @@ cd ./bin
 Finally, you can package it into a * .tar.gz and publish it.
 
 # Download the prepared installation package
-安装包下载(edgex fuji版)  
 [edgex-fuji_standard_1.1.0.tar.gz](http://www.discuz.edgexfoundry.net/discuz/forum.php?mod=viewthread&tid=106&extra=)  
+[视频学习](https://guqiaoit.ke.qq.com/?tuin=69fa3ba5#tab=1&category=-1)  
 
 
 
